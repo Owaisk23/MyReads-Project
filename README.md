@@ -4,6 +4,19 @@ This is the starter template for the final assessment project for Udacity's Reac
 
 Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
 
+# Project Details
+
+MyReads is just like a books library where we can seacrh and manange the books. This webpage consist of two pages, first page you see is the main page where you have three portions for books currently reading, want to read or read. The second page is the search page where you can search for additional books. On both pages there is a dropdown to select the shelve.
+
+# Installation Instructions
+
+Run following commands to start project
+
+* If you are not in the folder then type this command `cd MyReads-Project`
+* install project dependencies with `npm install`
+* start development server with `npm start` or `sudo npm start`
+* now open your browser and type url `localhost:3000`
+
 ## TL;DR
 
 To get started developing right away:
