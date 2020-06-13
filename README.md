@@ -12,7 +12,7 @@ Run following commands to start project
 * now open your browser and type url `localhost:3000`
 
 ## URL webpage
-* You may visit this webpage at `https://pccentre-by-owais.surge.sh/`
+* You may visit this webpage at `https://bookslibrary-by-owais.surge.sh/`
 
 ## TL;DR
 
