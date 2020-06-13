@@ -38,5 +38,5 @@ jobs:
       run: npm install -g surge 
     
     - name: deploying surge
-      run: surge ./build https://pccentre-by-owais.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
+      run: surge ./build https://bookslibrary-by-owais.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
 
